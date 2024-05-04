@@ -1,7 +1,7 @@
 describe('Basic user flow for Website', () => {
   // First, visit the lab 8 website
   beforeAll(async () => {
-    await page.goto('https://cse110-f2021.github.io/Lab8_Website');
+    await page.goto('https://elaine-ch.github.io/Lab6_Part1_Starter/');
   });
 
   // Next, check to make sure that all 20 <product-item> elements have loaded
